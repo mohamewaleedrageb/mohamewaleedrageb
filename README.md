@@ -78,7 +78,7 @@ A passionate Software Engineering Learner from Egypt 🇪🇬
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/mohamedwaleedrageb
+- GitHub: https://github.com/mohamewaleedrageb
 
 ---
 
