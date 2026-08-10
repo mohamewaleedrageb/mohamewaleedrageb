@@ -270,25 +270,6 @@
 
 <!-- ================= GITHUB STATS ================= -->
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mohamewaleedrageb&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"
-    alt="Mohamed Waleed GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamewaleedrageb&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117"
-    alt="Mohamed Waleed Top Languages"
-  />
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-
-<br>
-
 <!-- ================= GITHUB STREAK ================= -->
 
 ## 🔥 GitHub Streak
