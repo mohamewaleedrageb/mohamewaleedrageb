@@ -108,89 +108,53 @@
 <table>
 <tr>
 <td width="240" align="center">
-<img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/assets/featured/docdoc_tile.png" width="220"/>
-<br><br>
-<img src="https://img.shields.io/badge/APP-DOCTOR%20BOOKING-1E6FE0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PROJECT-E--COMMERCE-1E6FE0?style=for-the-badge"/>
 </td>
 <td>
 
-🩺 DocDoc — Doctor Booking App
+🛍️ E-Commerce App — إتمني
 
-A Flutter app for booking doctor appointments, built with a scalable state & DI foundation for predictable data flow across features.
+A Flutter e-commerce application built as a practical project to develop mobile application skills.
 
-✨ Key Contributions
-
-🏗️ Architecture: BLoC for state management, with GetIt + Injectable for clean Dependency Injection.
-
-🌐 Networking: Retrofit + Dio for typed REST integration with structured error handling.
-
-💾 Persistence: HydratedBloc to persist state across app restarts.
-
-🌍 Localization: Full Arabic/English support via easy_localization.
-
-🛠 Tech Stack<br><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/BLoC-6C63FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Dio%2FRetrofit-00A8E8?style=for-the-badge"/> <img src="https://img.shields.io/badge/GetIt%2FInjectable-8A2BE2?style=for-the-badge"/>
+🛠 Tech Stack<br><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 
 </td>
 </tr>
 
 <tr><td colspan="2" align="center">
-<img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/assets/featured/divider_1.png" width="70%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </td></tr>
 
 <tr>
 <td width="240" align="center">
-<img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/assets/featured/ehky_tile.png" width="220"/>
-<br><br>
-<img src="https://img.shields.io/badge/APP-REAL--TIME%20CHAT-6C4AB6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PROJECT-TO--DO%20APP-6C4AB6?style=for-the-badge"/>
 </td>
 <td>
 
-💬 Ehky — Real-Time Chat App
+✅ To-Do App
 
-A real-time messaging app built on Firebase, handling live sync, auth, and push notifications end-to-end.
+A Flutter to-do application built to practice mobile app development and working with Dart.
 
-✨ Key Contributions
-
-🔐 Auth: Firebase Auth + Google Sign-In for frictionless login.
-
-💬 Real-time sync: Cloud Firestore for live message delivery between users.
-
-🔔 Notifications: Firebase Cloud Messaging (FCM) for push alerts.
-
-☁️ Media: Firebase Storage for image/file sharing in chat.
-
-🛠 Tech Stack<br><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/BLoC-6C63FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/FCM-DD2C00?style=for-the-badge"/>
+🛠 Tech Stack<br><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 
 </td>
 </tr>
 
 <tr><td colspan="2" align="center">
-<img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/assets/featured/divider_2.png" width="70%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </td></tr>
 
 <tr>
 <td width="240" align="center">
-<img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/assets/featured/examapp_tile.png" width="220"/>
-<br><br>
-<img src="https://img.shields.io/badge/APP-ONLINE%20EXAMS-C9820B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PROJECT-C%2B%2B-2E7D32?style=for-the-badge"/>
 </td>
 <td>
 
-📝 Online Exam App — Exam Taking App
+💻 C++ Projects
 
-A Flutter exam-taking app integrated with a custom backend, built with full Clean Architecture across all layers.
+C++ projects focused on programming fundamentals, Object-Oriented Programming, and problem solving.
 
-✨ Key Contributions
-
-🏗️ Architecture: Clean Architecture (Data/Domain/Presentation) for testable, maintainable code.
-
-🌐 Networking: Retrofit + Dio integration with a custom backend for auth and exam flows.
-
-🐞 Real Debugging: Traced and fixed a broken Forgot-Password OTP flow caused by missing email/OTP parameters across the API layer.
-
-🔑 Auth: Secure token-based session handling.
-
-🛠 Tech Stack<br><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Clean%20Architecture-3A3A3A?style=for-the-badge"/> <img src="https://img.shields.io/badge/Dio%2FRetrofit-00A8E8?style=for-the-badge"/>
+🛠 Tech Stack<br><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/><img src="https://img.shields.io/badge/OOP-Object--Oriented%20Programming-6C63FF?style=for-the-badge"/>
 
 </td>
 </tr>
