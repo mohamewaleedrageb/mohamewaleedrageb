@@ -7,7 +7,7 @@
 <!-- Typing animation under the header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&color=00B4DB&width=500&lines=Junior+Flutter+Developer+📱;Building+Modern+Mobile+Apps;Clean+Architecture+Enthusiast;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&color=00B4DB&width=500&lines=Junior+Flutter+Developer+📱;Flutter+%7C+Dart+%7C+C%2B%2B;Problem+Solving;Always+Learning+🚀" />
 </p>
 
 <!-- Decorative divider line -->
@@ -18,19 +18,10 @@
 
 <!-- ================= ABOUT ME SECTION ================= -->
 
-<!-- About Me Section -->
-
 <h2>
-  <!-- small developer animation -->
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
   <span style="color: #8B5CF6;">About Me</span>
 </h2>
-
-<!-- Animated coding GIF on the right side -->
-
-<img align='right' src='https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/assets/featured/coder.gif' width='250'>
-
-<!-- Short professional introduction -->
 
 <p>
   <b>Junior Flutter Developer</b> and Information Systems student, currently developing my skills in <b>Flutter</b>, <b>Dart</b>, <b>C++</b>, and <b>Object-Oriented Programming (OOP)</b>.
@@ -40,15 +31,14 @@
   I’m also working on improving my <b>Problem Solving</b> skills and developing my <b>English communication</b>.
 </p>
 
-<h3>🎓 Education</h3>
+<h3>🎯 Currently Focused On</h3>
 <ul>
-  <li>🏫 <b>Information Systems Student</b></li>
+  <li>📱 Flutter & Dart</li>
+  <li>💻 C++ & Object-Oriented Programming</li>
+  <li>🧠 Problem Solving</li>
+  <li>🗣️ Improving English Communication</li>
+  <li>🚀 Building practical projects</li>
 </ul>
-
-<h3>💼 Opportunities</h3>
-<p>
-  🚀 Aspiring Software Engineer, focused on learning, building projects, and improving my development skills.
-</p>
 
 <br>
 
@@ -59,6 +49,7 @@
 </div>
 
 <br>
+
 <!-- ================= LANGUAGES & TOOLS SECTION ================= -->
 
 🚀 Languages & Tools
@@ -83,31 +74,22 @@
 
 ⚙️ Skills
 
-- Flutter
-
-- Dart
-
-- C++
-
-- Object-Oriented-Programming (OOP)
-
-- Problem Solving
-
-- Git & GitHub
-
-- English Commuication
+🥇 Primary Skills
 
 
 
-🥈 Problem Solving & Development
+🥈 Development & Problem Solving
 
+
+
+🥉 Other Tools & Technologies
 
 
 
 <!-- Decorative divider -->
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
 <!-- ================= FEATURED PROJECTS ================= -->
@@ -121,7 +103,7 @@
 </td>
 <td>
 
-🛍️ E-Commerce App 
+🛍️ E-Commerce App — إتمني
 
 A Flutter e-commerce application built as a practical project to develop mobile application skills.
 
@@ -142,7 +124,7 @@ A Flutter e-commerce application built as a practical project to develop mobile 
 
 ✅ To-Do App
 
-A Flutter to-do application built to practice mobile app development and working with Dart.
+A Flutter to-do application built to practice mobile app development and Dart.
 
 🛠 Tech Stack<br><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 
@@ -161,7 +143,7 @@ A Flutter to-do application built to practice mobile app development and working
 
 💻 C++ Projects
 
-C++ projects focused on programming fundamentals, Object-Oriented Programming, and problem solving.
+C++ projects focused on programming fundamentals, Object-Oriented Programming, and Problem Solving.
 
 🛠 Tech Stack<br><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/><img src="https://img.shields.io/badge/OOP-Object--Oriented%20Programming-6C63FF?style=for-the-badge"/>
 
@@ -173,11 +155,14 @@ C++ projects focused on programming fundamentals, Object-Oriented Programming, a
 
 📊 GitHub Stats
 
-<!-- GitHub stats cards -->
+<!--
+IMPORTANT:
+Replace YOUR_GITHUB_USERNAME below with your actual GitHub username.
+-->
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohamedwaleedrageb&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedwaleedrageb&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
 
 <!-- Decorative divider -->
@@ -192,16 +177,14 @@ C++ projects focused on programming fundamentals, Object-Oriented Programming, a
 
 🔥 GitHub Streak
 
-<!-- Contribution streak card -->
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HadiHeikal&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
 <!-- GitHub snake animation showing contributions -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake-dark.svg" />
 </p>
 
 <!-- Decorative divider -->
@@ -217,7 +200,7 @@ C++ projects focused on programming fundamentals, Object-Oriented Programming, a
 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedwaleedrageb&theme=react-dark&hide_border=true&area=true&bg_color=0D1117"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true&bg_color=0D1117"/>
 </p>
 
 <div align="center">
@@ -228,26 +211,12 @@ C++ projects focused on programming fundamentals, Object-Oriented Programming, a
 
 🤝 Connect With Me
 
-<!-- Social links -->
-
 <div align="center">
 
   <!-- GitHub -->
 
-  <a href="https://github.com/mohamedwaleedrageb" target="_blank">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <!-- LinkedIn -->
-
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <!-- Face Book-->
-
-  <a href="YOUR_FACEBOOK_URL" target="_blank">
-    <img src="https://www.facebook.com/share/14kKHqoMnkj/" />
   </a>
 
 </div>
@@ -264,22 +233,18 @@ C++ projects focused on programming fundamentals, Object-Oriented Programming, a
 
 👨🏻‍💻 Views and Followers
 
-<!-- Profile view counter -->
-
-<a href="https://github.com/mohamedwaleedrageb/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=mohamedwaleedrageb">
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME">
 </a>
 
-<!-- GitHub followers badge -->
-
-<a href="https://github.com/mohamedwaleedrageb?tab=followers">
-    <img src="https://img.shields.io/github/followers/mohamedwaleedrageb?label=Followers&style=social" alt="GitHub Badge">
+<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social" alt="GitHub Badge">
 </a>
 
 <!-- Closing typing animation -->
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+💙;+Shoot+me+a+message+on+Linkedin!;Always+Learning+🚀&color=00B4DB">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+💙;Always+Learning+🚀&color=00B4DB">
 </h3>
 
 <div align="center">
@@ -289,4 +254,4 @@ C++ projects focused on programming fundamentals, Object-Oriented Programming, a
 <!-- Footer wave -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB&height=100&section=footer
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB&height
