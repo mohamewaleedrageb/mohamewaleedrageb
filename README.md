@@ -33,20 +33,21 @@
 <!-- Short professional introduction -->
 
 <p>
-  <b>Junior Flutter Developer</b> specializing in <b>Clean Architecture</b> and <b>BLoC/Cubit</b>, with a strong focus on <b>SOLID principles</b> and <b>Dependency Injection</b> to ship scalable, production-ready mobile apps.
+  <b>Junior Flutter Developer</b> and Information Systems student, currently developing my skills in <b>Flutter</b>, <b>Dart</b>, <b>C++</b>, and <b>Object-Oriented Programming (OOP)</b>.
 </p>
 
-<h3>🎓 Education & Achievements</h3>
+<p>
+  I’m also working on improving my <b>Problem Solving</b> skills and developing my <b>English communication</b>.
+</p>
+
+<h3>🎓 Education</h3>
 <ul>
-  <li>🏫 <b>Computer Science Graduate</b> — Banha University (GPA: <b>3.57/4.00</b>)</li>
-  <li>📱 <b>Flutter Development Certification</b> — ITI</li>
-  <li>🏆 <b>ECPC</b> Qualifications Participant</li>
-  <li>⚡ <b>IEEEXtreme 16.0 & 17.0</b> Problem Solving Participant</li>
+  <li>🏫 <b>Information Systems Student</b></li>
 </ul>
 
 <h3>💼 Opportunities</h3>
 <p>
-  🚀 Open to Flutter Developer and Freelance opportunities.
+  🚀 Aspiring Software Engineer, focused on learning, building projects, and improving my development skills.
 </p>
 
 <br>
@@ -64,7 +65,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,supabase,git,github,androidstudio,vscode,postman,figma,cpp,java,python" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,cpp,git,github,androidstudio,vscode,xcode,html,css,js" />
 
 </div>
 
@@ -80,17 +81,17 @@
 
 <!-- ================= TECHNOLOGY STACK ================= -->
 
-⚙️ Technology Stack
+⚙️ Skills
 
-🥇 Primary Technology Stack
-
-
-
-🥈 Secondary Technology Stack
+🥇 Primary Skills
 
 
 
-🥉 Tertiary Technology Stack
+🥈 Problem Solving & Development
+
+
+
+🥉 Tools
 
 
 
@@ -333,4 +334,5 @@ A Flutter exam-taking app integrated with a custom backend, built with full Clea
 <!-- Footer wave -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB&height=100&section=footer" width="100%" />
+</p>
