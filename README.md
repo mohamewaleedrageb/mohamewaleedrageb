@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB&height=150&section=header&text=Hi!+I'm+Mohamed+Waleed+👋&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%" />
 </p>
 
-<!-- Typing animation under the header -->
+<!-- Typing animation -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&color=00B4DB&width=500&lines=Junior+Flutter+Developer+📱;Aspiring+Software+Engineer;Building+Modern+Mobile+Apps;Learning+%26+Building+🚀" />
@@ -23,6 +23,14 @@
   <span style="color: #8B5CF6;">About Me</span>
 </h2>
 
+<!-- Coder animation sitting on laptop -->
+
+<img
+  align="right"
+  src="https://raw.githubusercontent.com/HadiHeikal/HadiHeikal/main/assets/featured/coder.gif"
+  width="300"
+/>
+
 <p>
   <b>Junior Flutter Developer</b> and <b>Aspiring Software Engineer</b> with a strong interest in building modern mobile applications using <b>Flutter & Dart</b>.
 </p>
@@ -38,7 +46,7 @@
 <h3>🎓 Education & Learning</h3>
 
 <ul>
-  <li>🏫 <b>Computer Science Student</b></li>
+  <li>🏫 <b>Business Information Systems Student</b></li>
   <li>📱 Learning and developing with <b>Flutter & Dart</b></li>
   <li>💻 Strong foundation in <b>C++ & Object-Oriented Programming</b></li>
   <li>🧠 Studying <b>Data Structures & Algorithms</b></li>
@@ -51,6 +59,8 @@
 <p>
   🚀 Open to <b>Flutter Development</b>, <b>Software Engineering Internships</b>, and <b>Freelance</b> opportunities.
 </p>
+
+<br clear="right">
 
 <br>
 
@@ -109,8 +119,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-<!-- Decorative divider -->
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
@@ -125,9 +133,12 @@
 
 <tr>
 
-<td width="240" align="center">
+<td width="320" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=02569B&height=180&text=Flutter%20E-Commerce&fontSize=22&fontColor=fff&animation=fadeIn" width="220"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=rounded&color=02569B&height=220&text=Flutter%20E-Commerce&fontSize=26&fontColor=fff&animation=fadeIn"
+  width="290"
+/>
 
 <br><br>
 
@@ -170,9 +181,12 @@
 
 <tr>
 
-<td width="240" align="center">
+<td width="320" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=00599C&height=180&text=ASCII%20Converter&fontSize=22&fontColor=fff&animation=fadeIn" width="220"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=rounded&color=00599C&height=220&text=ASCII%20Converter&fontSize=26&fontColor=fff&animation=fadeIn"
+  width="290"
+/>
 
 <br><br>
 
@@ -216,9 +230,12 @@
 
 <tr>
 
-<td width="240" align="center">
+<td width="320" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=6C63FF&height=180&text=C%2B%2B%20Age%20Calculator&fontSize=20&fontColor=fff&animation=fadeIn" width="220"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=rounded&color=6C63FF&height=220&text=C%2B%2B%20Age%20Calculator&fontSize=24&fontColor=fff&animation=fadeIn"
+  width="290"
+/>
 
 <br><br>
 
@@ -263,8 +280,6 @@
 
 </p>
 
-<!-- Decorative divider -->
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
@@ -281,15 +296,17 @@
 
 </p>
 
-<!-- GitHub snake animation -->
+<!-- ================= CONTRIBUTION SNAKE ================= -->
+
+## 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/mohamewaleedrageb/mohamewaleedrageb/output/snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/mohamewaleedrageb/mohamewaleedrageb/output/github-contribution-grid-snake-dark.svg" />
 
 </p>
 
-<!-- Decorative divider -->
+<br>
 
 <div align="center">
 
@@ -321,15 +338,11 @@
 
 <div align="center">
 
-<!-- LinkedIn -->
-
 <a href="https://www.linkedin.com/in/mohamed-waleed-6aaa00418/" target="_blank">
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 </a>
-
-<!-- Gmail -->
 
 <a href="mailto:mohamedwaleedrageb@gmail.com">
 
@@ -337,15 +350,11 @@
 
 </a>
 
-<!-- GitHub -->
-
 <a href="https://github.com/mohamewaleedrageb" target="_blank">
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </a>
-
-<!-- Telegram -->
 
 <a href="https://t.me/Mohamedwaleedrageb" target="_blank">
 
@@ -356,8 +365,6 @@
 </div>
 
 <br>
-
-<!-- Decorative divider -->
 
 <div align="center">
 
@@ -377,7 +384,7 @@
 
 <a href="https://github.com/mohamewaleedrageb?tab=followers">
 
-<img src="https://img.shields.io/github/followers/mohamewaleedrageb?label=Followers&style=social" alt="GitHub Followers">
+<img src="https://img.shields.io/github/followers/mohamewaleedrageb?label=Followers&style=social" />
 
 </a>
 
