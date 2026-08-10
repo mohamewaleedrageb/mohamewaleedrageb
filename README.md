@@ -167,8 +167,8 @@ C++ projects focused on programming fundamentals, Object-Oriented Programming, a
 <!-- GitHub stats cards -->
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=HadiHeikal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadiHeikal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mohamedwaleedrageb&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedwaleedrageb&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
 
 <!-- Decorative divider -->
@@ -208,7 +208,7 @@ C++ projects focused on programming fundamentals, Object-Oriented Programming, a
 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HadiHeikal&theme=react-dark&hide_border=true&area=true&bg_color=0D1117"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedwaleedrageb&theme=react-dark&hide_border=true&area=true&bg_color=0D1117"/>
 </p>
 
 <div align="center">
@@ -223,40 +223,16 @@ C++ projects focused on programming fundamentals, Object-Oriented Programming, a
 
 <div align="center">
 
+  <!-- GitHub -->
+
+  <a href="https://github.com/mohamedwaleedrageb" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
   <!-- LinkedIn -->
 
-  <a href="https://www.linkedin.com/in/hadi-heikal-b113291b5/" target="_blank">
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <!-- Gmail -->
-
-  <a href="mailto:hadiiheikal@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <!-- WhatsApp -->
-
-  <a href="https://wa.me/201126781313" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-
-  <!-- Telegram -->
-
-  <a href="https://t.me/HadiHeikal" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-00B4DB?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-
-  <!-- Mostaql -->
-
-  <a href="https://mostaql.com/u/hadiiheikal" target="_blank">
-    <img src="https://img.shields.io/badge/Mostaql-00B4DB?style=for-the-badge&logo=freelancer&logoColor=white" />
-  </a>
-
-  <!-- Khamsat -->
-
-  <a href="https://khamsat.com/user/hadiiheikal" target="_blank">
-    <img src="https://img.shields.io/badge/Khamsat-00B4DB?style=for-the-badge&logo=shopify&logoColor=white" />
   </a>
 
 </div>
@@ -275,14 +251,14 @@ C++ projects focused on programming fundamentals, Object-Oriented Programming, a
 
 <!-- Profile view counter -->
 
-<a href="https://github.com/HadiHeikal/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=HadiHeikal">
+<a href="https://github.com/mohamedwaleedrageb/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=mohamedwaleedrageb">
 </a>
 
 <!-- GitHub followers badge -->
 
-<a href="https://github.com/HadiHeikal?tab=followers">
-    <img src="https://img.shields.io/github/followers/HadiHeikal?label=Followers&style=social" alt="GitHub Badge">
+<a href="https://github.com/mohamedwaleedrageb?tab=followers">
+    <img src="https://img.shields.io/github/followers/mohamedwaleedrageb?label=Followers&style=social" alt="GitHub Badge">
 </a>
 
 <!-- Closing typing animation -->
@@ -298,5 +274,4 @@ C++ projects focused on programming fundamentals, Object-Oriented Programming, a
 <!-- Footer wave -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB&height=100&section=footer" width="100%" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB&height=100&section=footer
