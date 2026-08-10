@@ -83,15 +83,24 @@
 
 ⚙️ Skills
 
-🥇 Primary Skills
+- Flutter
+
+- Dart
+
+- C++
+
+- Object-Oriented-Programming (OOP)
+
+- Problem Solving
+
+- Git & GitHub
+
+- English Commuication
 
 
 
 🥈 Problem Solving & Development
 
-
-
-🥉 Tools
 
 
 
@@ -112,7 +121,7 @@
 </td>
 <td>
 
-🛍️ E-Commerce App — إتمني
+🛍️ E-Commerce App 
 
 A Flutter e-commerce application built as a practical project to develop mobile application skills.
 
@@ -233,6 +242,12 @@ C++ projects focused on programming fundamentals, Object-Oriented Programming, a
 
   <a href="YOUR_LINKEDIN_URL" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- Face Book-->
+
+  <a href="YOUR_FACEBOOK_URL" target="_blank">
+    <img src="https://www.facebook.com/share/14kKHqoMnkj/" />
   </a>
 
 </div>
