@@ -273,11 +273,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mohamewaleedrageb&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamewaleedrageb&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mohamewaleedrageb&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"
+    alt="Mohamed Waleed GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamewaleedrageb&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117"
+    alt="Mohamed Waleed Top Languages"
+  />
 </p>
 
 <div align="center">
